@@ -1,5 +1,7 @@
+import Quiz from "./screens/Quiz/index";
+
 function App() {
-  return <div>REACT</div>;
+  return <Quiz />;
 }
 
 export default App;
